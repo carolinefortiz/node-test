@@ -1,0 +1,12 @@
+{
+  "name": "carol-node",
+  "version": "1.0.0",
+  "description": "Projeto de testes",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ."
+  },
+  "dependencies": {
+    "axios": "^1.6.1"
+  }
+}
